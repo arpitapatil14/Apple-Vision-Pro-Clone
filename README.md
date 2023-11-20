@@ -45,4 +45,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
   
 - Icons provided by [FontAwesome](https://fontawesome.com/).
 
-We hope you enjoy exploring our Apple Vision Pro Clone! If you have any feedback or suggestions, please feel free to open an issue. Happy coding! 🚀
+I hope you enjoy exploring  Apple Vision Pro Clone! If you have any feedback or suggestions, please feel free to open an issue. Happy coding! 🚀
